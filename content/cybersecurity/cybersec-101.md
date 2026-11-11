@@ -4,7 +4,6 @@ description = "Modul pembelajaran Cyber Security 101."
 weight = 10
 +++
 
-# Modul Pembelajaran Cyber Security
 **Pendekatan: 30% Teori | 70% Hands-on Lab & Challenge**
 
 Dokumen ini adalah modul praktikum intensif Cyber Security. Setiap modul memuat porsi teori esensial (30%) dan didominasi oleh instruksi teknis, setup lab, serta tantangan/challenge praktis (70%).
