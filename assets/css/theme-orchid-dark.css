@@ -1,0 +1,114 @@
+```css
+@import "theme-relearn-dark.css";
+
+/*
+ * OrchidLabs Custom Theme
+ * Based on Hugo Relearn
+ * Color Scheme: Dark Navy
+ */
+
+:root {
+    /* Brand colors */
+    --PRIMARY-color: #38BDF8;
+    --PRIMARY-HOVER-color: #7DD3FC;
+    --SECONDARY-color: #2563EB;
+    --SECONDARY-HOVER-color: #3B82F6;
+    --ACCENT-color: #22D3EE;
+    --ACCENT-HOVER-color: #67E8F9;
+
+    /* Sidebar */
+    --MENU-HEADER-BG-color: #111C2E;
+    --MENU-HEADER-BORDER-color: #334155;
+    --MENU-HEADER-color: #E2E8F0;
+
+    --MENU-SECTIONS-BG-color: #111C2E;
+    --MENU-SECTIONS-ACTIVE-BG-color: #1E293B;
+    --MENU-SECTIONS-LINK-color: #CBD5E1;
+    --MENU-SECTIONS-LINK-HOVER-color: #FFFFFF;
+
+    /* Home menu */
+    --MENU-HOME-LINK-color: #E2E8F0;
+    --MENU-HOME-LINK-HOVER-color: #38BDF8;
+    --MENU-HOME-SEPARATOR-color: #334155;
+    --MENU-HOME-BOTTOM-SEPARATOR-color: #334155;
+
+--MENU-SECTION-ACTIVE-CATEGORY-color: #38BDF8;
+--MENU-SECTION-SEPARATOR-color: #334155;
+
+    /* Main content */
+    --MAIN-BG-color: #0B1220;
+    --MAIN-TEXT-color: #CBD5E1;
+    --MAIN-TITLES-TEXT-color: #F1F5F9;
+    --MAIN-LINK-color: #38BDF8;
+    --MAIN-LINK-HOVER-color: #7DD3FC;
+
+    /* Topbar */
+    --TOPBAR-BG-color: #0B1220;
+    --TOPBAR-TEXT-color: #E2E8F0;
+    --MAIN-TOPBAR-BORDER-color: #1E293B;
+
+    /* Code blocks */
+    --CODE-theme: relearn-dark;
+    --CODE-BLOCK-color: #E2E8F0;
+    --CODE-BLOCK-BG-color: #111827;
+
+    /* Inline code */
+    --CODE-INLINE-color: #7DD3FC;
+    --CODE-INLINE-BG-color: #1E293B;
+    --CODE-INLINE-BORDER-color: #334155;
+
+    /* Browser and diagrams */
+    --BROWSER-theme: dark;
+    --MERMAID-theme: redux-dark-color;
+}
+
+/* =================================
+   OrchidLabs Reading Experience
+   ================================= */
+
+/* Main document typography */
+#R-main {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* Paragraph spacing */
+#R-main p {
+    line-height: 1.75;
+    margin-bottom: 1.2rem;
+}
+
+/* Lists */
+#R-main li {
+    line-height: 1.7;
+    margin-bottom: 0.3rem;
+}
+
+/* Headings */
+#R-main h1,
+#R-main h2,
+#R-main h3,
+#R-main h4 {
+    line-height: 1.35;
+    letter-spacing: -0.02em;
+}
+
+/* Links */
+#R-main a {
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+/* Images */
+#R-main img {
+    border-radius: 6px;
+}
+
+/* Selection */
+::selection {
+    background: #2563EB;
+    color: #FFFFFF;
+}
+
+```
+

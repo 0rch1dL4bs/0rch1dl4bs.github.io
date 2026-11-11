@@ -1,0 +1,16 @@
+baseURL: "https://0rch1dl4bs.github.io/"
+title: "0rch1dL4bs"
+
+locale: "en-US"
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: false
+
+enableRobotsTXT: true
+
+theme: "hugo-theme-relearn"
+
+params:
+  author:
+    name: "OrchidLabs"
+
+  themeVariant: orchid-dark
