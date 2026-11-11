@@ -1,6 +1,6 @@
 ---
 title: "CYBER SECURITY"
-weight: 1
+weight: 20
 chapter: false
 description: "Technical documentation, hands-on labs, security research, and cybersecurity learning materials."
 ---

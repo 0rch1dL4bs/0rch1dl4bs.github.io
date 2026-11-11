@@ -1,6 +1,6 @@
 ---
 title: 'CLOUD COMPUTING'
-weight: 2
+weight: 10
 chapter: false
 ---
 
