@@ -1,8 +1,8 @@
 +++
-title = "Modul Praktikum AWS Cloud Computing"
+title = "Modul Praktikum AWS "
 date = 2026-11-10
 weight = 10
-description = "Panduan praktikum AWS Cloud Computing."
+description = "Panduan praktikum AWS."
 draft = false
 +++
 
